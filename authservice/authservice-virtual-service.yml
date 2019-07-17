@@ -1,0 +1,17 @@
+apiVersion: networking.istio.io/v1alpha3
+kind: VirtualService
+metadata:
+  name: authservice-virtualservice
+  namespace: cooly-crawler
+spec:
+  hosts:
+    - authservice
+  http:
+    - route:
+        - destination:
+            host: authservice
+            subset: 'v1'
+          weight: 100
+      retries:
+        attempts: 3
+        perTryTimeout: 2s
