@@ -1,4 +1,4 @@
-# cooly-engine
+# Cooly Engine
 
 - Full lifecycle distributed crawler engine
 - What's make it's better solution for web scrapping
