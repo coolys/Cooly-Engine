@@ -1,7 +1,6 @@
 # Cooly Engine
 
-- Full lifecycle distributed crawler engine
-- What's make it's better solution for web scrapping
+- High availability and scalability, distributed crawler engine
 
 # Gateway Board
   - Web UI for manage all expose APIs in engine as functionalities 
