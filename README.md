@@ -12,6 +12,7 @@
   - Manage fetch engine
   - Manage feeds/data
   - Manage media
+  - Crawl/Re-crawl
   
 # Scheduler Engine
   + Distributed scheduling using Quartz with quartz-mongodb
