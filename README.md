@@ -14,7 +14,7 @@
   - Manage media
   - Crawl/Re-crawl
   
-  ![alt tag](https://github.com/hungnguyendang/system-architectures/blob/master/Web_Application_Architecture.png)
+  ![alt tag](https://github.com/coolys/cooly-engine/blob/master/dashboard.png)
   
   
 # Scheduler Engine
