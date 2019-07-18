@@ -1,5 +1,55 @@
-# cooly-kubernetes
-cooly-kubernetes
+# cooly-engine
+
+- Full lifecycle distributed crawler engine
+- What's make it's better solution for web scrapping
+
+# Gateway Board
+  - Web UI for manage all expose APIs in engine as functionalities 
+  - Design Rules
+  - Dashboard
+  - Mornitoring
+  - Manage Scheduling
+  - Manage fetch engine
+  - Manage feeds/data
+  - Manage media
+  
+# Scheduler Engine
+  + Distributed scheduling using Quartz with quartz-mongodb
+# Fetching Engine
+  + Selenium engine
+  + HTTP Engine
+  + RSS Engine
+  + API engine (fb, twitter..)
+  
+# Parser Engine
+  + Parse web html base on semantic data using schema.org 
+  + Rule base engine free design how to parse data base on JSON and DOM, CSS, and jquery-like methods.
+  + Distributed and share rules cross engine base on domain of the web
+  
+# Downloading Engine
+ + Download image/video 
+ + Parsing image/video meta data infomration
+# Indexing Engine
+ + MongoDB and Elastic Search
+ + Searching data, index ..
+# Uploading Engine
+ + S3 Uploader 
+ + More provider comming
+# Centralize Logging Engine base on ELK
+  + Logtash, Kibna, Elastic Search
+  + Prometheus comming soon
+  + Datadog agent comming soon
+# Data Export format (json, csv)
+ + Crawed data as Files (html, csv, json)
+ + Can be downloaded from S3
+# Authenticate Service using Oauth and JWT for Security
+# Micro Services architect base on NETFLIX OSS
+# Proxy Engine
+
+
+
+
+#cooly-kubernetes
 
 
 
