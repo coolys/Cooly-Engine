@@ -46,11 +46,16 @@
 # Data Export format (json, csv)
  + Crawed data as Files (html, csv, json)
  + Can be downloaded from S3
-# Authenticate Service using Oauth and JWT for Security
+# Authenticate Service
+ + User Authentication and Authorization system, which uses the OAuth2 protocol, JWT
 # Message Queue Engine
  + RabbitMQ for distributed message queue
 # Proxy Engine
-# Micro Services architect base on NETFLIX OSS
+# Micro Services architect base on NetFlix OSS
+ + Euruka Server
+ + Spring cloud config
+ + Zuul Proxy
+ + Ribbon
 
 
 
