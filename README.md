@@ -43,8 +43,10 @@
  + Crawed data as Files (html, csv, json)
  + Can be downloaded from S3
 # Authenticate Service using Oauth and JWT for Security
-# Micro Services architect base on NETFLIX OSS
+# Message Queue Engine
+ + RabbitMQ for distributed message queue
 # Proxy Engine
+# Micro Services architect base on NETFLIX OSS
 
 
 
