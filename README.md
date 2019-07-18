@@ -14,6 +14,9 @@
   - Manage media
   - Crawl/Re-crawl
   
+  ![alt tag](https://github.com/hungnguyendang/system-architectures/blob/master/Web_Application_Architecture.png)
+  
+  
 # Scheduler Engine
   + Distributed scheduling using Quartz with quartz-mongodb
 # Fetching Engine
