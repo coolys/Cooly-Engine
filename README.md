@@ -47,8 +47,10 @@
  + Can be downloaded from S3
 # Authenticate Service
  + User Authentication and Authorization system, which uses the OAuth2 protocol, JWT
-# Message Queue Engine
+# Communication between services
  + RabbitMQ for distributed message queue
+ + Kafka Stream
+ + Feig client: https://github.com/OpenFeign/feign
 # Proxy Engine
 # Micro Services architect base on NetFlix OSS
  + Euruka Server
